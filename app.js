@@ -1,3 +1,2 @@
 console.log("Salom");
-
-console.log("Samandar");
+console.log("Test 2");
